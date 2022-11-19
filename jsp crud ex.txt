@@ -1,0 +1,15 @@
+1.Create TWO Packages
+  1.com.ibs.bean
+      i.User
+  2.com.ibs.dao
+      ii.UserDao
+
+2. create a User bean class provide properties of User like id,name,password,gender,country;
+3. In DAO class we have methods like
+i.save()
+ii.update()
+iii.delete()
+iv.getAllRecords()
+v.getRecordById()
+
+3.create according jsp pages and complete CRUD operations on User.
